@@ -12,7 +12,9 @@ Dicho esto, hay dos scripts en el repositorio. Uno es el molde o el template de 
 Dicho esto, dentro de los scripts hay una explicación de lo que hace cada función del molde de personaje, 
 que está pensado para que se hagan subclases de ella misma.
 
-Este script está creado con fines de uso personal, pero con fin de familiarizarme con GitHub, lo subo
+Para aclarar, "BaseDeDatos.py" importa la clase desde "ClasePersonaje.py" para que te hagas tus propios personajes.
+
+Estos scripts están creados con fines de uso personal, pero con fin de familiarizarme con GitHub, lo subo
 para que me sea más fácil en futuros proyectos.
 
 Gracias por leer.
